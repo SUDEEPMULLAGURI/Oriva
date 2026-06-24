@@ -1,4 +1,4 @@
-# 🌱 Irrigation Suggestion Bot
+# 🌱 Irrigation Advisory System 
 
 > **ESP32-based smart irrigation advisory system** — measures soil moisture and environmental conditions, calculates evapotranspiration, and tells you whether your field needs watering.
 
