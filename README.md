@@ -394,7 +394,3 @@ For parameters not yet exposed via BLE, edit `globals.cpp` and reflash:
 ## License
 
 > **[PLACEHOLDER: License text or SPDX identifier (e.g. MIT, GPL-3.0-only)]**
-
----
-
-*For the full technical reference including module API documentation, NVS key tables, and calibration theory, see `Irrigation_Suggestion_Bot_Documentation.docx`.*
