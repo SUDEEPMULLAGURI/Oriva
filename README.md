@@ -390,7 +390,3 @@ For parameters not yet exposed via BLE, edit `globals.cpp` and reflash:
 | Wire | built-in | Arduino core |
 
 ---
-
-## License
-
-> **[PLACEHOLDER: License text or SPDX identifier (e.g. MIT, GPL-3.0-only)]**
